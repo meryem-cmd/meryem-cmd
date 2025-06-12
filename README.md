@@ -1,4 +1,4 @@
-👋 Hi, I’m Meryem (@meryem-cmd)  
+👋 Hi, I’m Maryyam (@meryem-cmd)  
 👀 Passionate about Cybersecurity and various tech things.  
 🌱 Currently diving into Backend Web Development.  
 💌 Reach me at: tanvirmeryem2@gmail.com  
