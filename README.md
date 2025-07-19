@@ -1,5 +1,5 @@
 👋 Hi, I’m Maryyam (@meryem-cmd)  
-👀 Passionate about Cybersecurity and various tech things.  
+👀 Passionate about web dev and various tech things.  
 🌱 Currently diving into Backend Web Development.  
 💌 Reach me at: tanvirmeryem2@gmail.com  
 ✨ Fun fact: I also run a small handmade jewelry business on the side!  
