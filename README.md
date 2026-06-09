@@ -1,6 +1,6 @@
 # Hi there, I'm Maryyam Tanvir 
 
-🎓 Computer Science sophomore at **PUCIT** passionate about building impactful software, AI-powered systems, and modern web applications.
+🎓 Computer Science student at **PUCIT** passionate about building impactful software, AI-powered systems, and modern web applications.
 
 💻 I enjoy working across the stack — from crafting responsive frontends to building intelligent backend systems.
 
