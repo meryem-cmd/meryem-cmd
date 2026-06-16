@@ -1,4 +1,4 @@
-# Hi there, I'm Maryyam Tanvir 
+# Hi there, I'm Maryyam Tanveer
 
 🎓 Computer Science student at **PUCIT** passionate about building impactful software, AI-powered systems, and modern web applications.
 
