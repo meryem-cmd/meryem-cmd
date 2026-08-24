@@ -1,77 +1,64 @@
-# Hi there, I'm Maryyam Tanveer
+# Maryyam Tanveer
 
-🎓 Computer Science student at **PUCIT** passionate about building impactful software, AI-powered systems, and modern web applications.
+Computer Science student at PUCIT focused on backend and full-stack development with Django and MERN. Building production systems with real authentication, deployment, and CMS integrations, alongside applied AI/ML projects using retrieval and computer-vision pipelines.
 
-💻 I enjoy working across the stack — from crafting responsive frontends to building intelligent backend systems.
-
----
-
-## 🚀 About Me
-
-* 🔭 Currently building projects in **AI, full-stack development, and web security**
-* 🌱 Exploring **LLMs, RAG systems, backend engineering, and scalable architectures**
-* 💡 Interested in **AI applications, developer tools, cybersecurity, and user-focused products**
-* 🎨 Also involved in media/design work through university societies
-* ✨ Fun fact: I run a small handmade jewelry business on the side!
+📫 tanvirmeryem2@gmail.com · [LinkedIn](https://linkedin.com/in/maryyam-tanveer) · [GitHub](https://github.com/meryem-cmd)
 
 ---
 
-## 🛠️ Tech Stack
+## Projects
 
-### Languages
+### [rate-limiter](https://github.com/meryem-cmd/rate-limiter)
+| | |
+|---|---|
+| **Stack** | Django · Redis (atomic Lua scripts) · Gunicorn · Prometheus/Grafana · k6 |
+| **Key detail** | Built two versions of the core rate-check deliberately — naive vs. atomic — to prove a race condition mattered under concurrent load, not just claim it did |
+| **Impact** | Naive version allowed 2x its configured limit under load; atomic Lua-script fix closed the race entirely and cut average response time ~10–25x (1.07s–4.47s → 164ms) |
 
-JavaScript • Python • Java • C++ • C • Kotlin • HTML5 • CSS3
+### [url-security-scanner](https://github.com/meryem-cmd/url-security-scanner)
+| | |
+|---|---|
+| **Stack** | Node.js · Express 5 · Python (subprocess) · MongoDB (scaffolded) |
+| **Key detail** | Full-stack SQL injection scanner — submits a URL, runs a Python payload scanner as a child process, and classifies findings into Most Critical / Moderate / Least Critical severity tiers |
+| **Impact** | Generates a self-contained, downloadable HTML report for offline review; built as an Information Security coursework project with a disclosed security notice on authorised use |
 
-### Frameworks & Libraries
+### [AI FitStyler](https://github.com/meryem-cmd/fitstyler)
+| | |
+|---|---|
+| **Stack** | Python · Scikit-learn · FAISS · MediaPipe · OpenCV |
+| **Key detail** | Multi-agent outfit recommendation system using body-shape and skin-tone detection via MediaPipe, with an embedding-based RAG pipeline (FAISS + HuggingFace) for context-aware search |
+| **Impact** | Interactive Streamlit UI with AI-generated, single-guided recommendation flow |
 
-React.js • Node.js • Express.js • Flask • Spring Boot • Tailwind CSS
+### [Enchanted Trinkets](https://github.com/meryem-cmd/enchanted_trinkets)
+| | |
+|---|---|
+| **Stack** | Node.js · Express.js · MongoDB · Cloudinary · JavaScript |
+| **Key detail** | Full-stack e-commerce platform with role-based dashboards (Manager / Employee / Customer) and access-controlled REST APIs |
+| **Impact** | Replaced one-by-one manual product entry with a batch-upload workflow; Cloudinary-based image hosting |
 
-### AI & Data
-
-LangChain • FAISS • HuggingFace • MediaPipe • OpenCV • Scikit-learn • NumPy • Pandas • Streamlit
-
-### Databases & Tools
-
-MongoDB • MySQL • Git • GitHub • Postman • VS Code • Jira • Figma • Canva
-
----
-
-## 🌟 Featured Projects
-
-### 👗 AI-FitStyler
-
-AI-powered fashion recommendation system using MediaPipe, LangChain, FAISS, and HuggingFace.
-
-🔗 [https://github.com/meryem-cmd/fitstyler](https://github.com/meryem-cmd/fitstyler)
-
-### 🛒 Enchanted Trinkets
-
-Full-stack e-commerce platform with role-based dashboards and Cloudinary integration.
-
-🔗 [https://github.com/meryem-cmd/enchanted_trinkets](https://github.com/meryem-cmd/enchanted_trinkets)
-
-### 🔐 URL Vulnerability Scanner
-
-MERN + Python based scanner for detecting common web vulnerabilities.
-
-🔗 [https://github.com/meryem-cmd/url-security-scanner](https://github.com/meryem-cmd/url-security-scanner)
-
-### 🎮 Galactic Defender
-
-2D arcade game built with C++ and Raylib.
-
-🔗 [https://github.com/meryem-cmd/galactic-defender-raylib](https://github.com/meryem-cmd/galactic-defender-raylib)
+### [Django Blog App](https://github.com/meryem-cmd/django-blog-app)
+| | |
+|---|---|
+| **Stack** | Python · Django · Wagtail CMS · Bootstrap 5 · SQLite |
+| **Key detail** | Dual content system merging a custom Blog model with Wagtail-authored pages into one unified feed, with public/followers-only visibility |
+| **Impact** | Deployed to AWS EC2 with Gunicorn (systemd service) and Whitenoise for static files |
 
 ---
 
-## 📈 Currently Working On
+## Tech Stack
 
-* Improving backend architecture skills
-* Building AI-integrated applications
-* Strengthening problem solving & DSA
-* Contributing to impactful projects
+**Languages:** JavaScript (ES6+), Python, Java, C++, C, Kotlin, HTML5, CSS3
+**Frameworks & Libraries:** Django, React, Node.js, Express.js, Flask, Bootstrap, Tailwind CSS
+**AI & Data:** LangChain, FAISS, HuggingFace, OpenCV, Scikit-learn, NumPy, Pandas, Streamlit
+**Databases:** MongoDB, MySQL, SQLite
+**Tools:** Git, GitHub, Postman, VS Code, Jira, Figma, Canva
 
 ---
+
+## Currently
+
+- Expanding into RAG systems, backend engineering, and scalable architectures
+- Interested in AI applications, developer tools, cybersecurity, and user-focused products
 
 ## 📫 Connect With Me
 
