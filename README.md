@@ -1,6 +1,6 @@
 # Maryyam Tanveer
 
-Computer Science student at PUCIT focused on backend and full-stack development with Django and MERN. Building production systems with real authentication, deployment, and CMS integrations, alongside applied AI/ML projects using retrieval and computer-vision pipelines.
+Computer Science student at PUCIT focused on backend and full-stack development. Building production systems with real authentication, deployment, and CMS integrations, alongside applied AI/ML projects using retrieval and computer-vision pipelines.
 
 📫 tanvirmeryem2@gmail.com · [LinkedIn](https://linkedin.com/in/maryyam-tanveer) · [GitHub](https://github.com/meryem-cmd)
 
