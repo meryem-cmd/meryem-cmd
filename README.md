@@ -1,6 +1,6 @@
 # Maryyam Tanveer
 
-Computer Science student at PUCIT focused on backend and full-stack development. Building production systems with real authentication, deployment, and CMS integrations, alongside applied AI/ML projects using retrieval and computer-vision pipelines.
+Computer Science student at PUCIT focused on backend and full-stack development with Django and MERN. Building production systems with real authentication, deployment, and CMS integrations, alongside applied AI/ML projects using retrieval and computer-vision pipelines.
 
 📫 tanvirmeryem2@gmail.com · [LinkedIn](https://linkedin.com/in/maryyam-tanveer) · [GitHub](https://github.com/meryem-cmd)
 
@@ -47,11 +47,11 @@ Computer Science student at PUCIT focused on backend and full-stack development.
 
 ## Tech Stack
 
-**Languages:** JavaScript (ES6+), Python, Java, C++, C, Kotlin, HTML5, CSS3
-**Frameworks & Libraries:** Django, React, Node.js, Express.js, Flask, Bootstrap, Tailwind CSS
-**AI & Data:** LangChain, FAISS, HuggingFace, OpenCV, Scikit-learn, NumPy, Pandas, Streamlit
-**Databases:** MongoDB, MySQL, SQLite
-**Tools:** Git, GitHub, Postman, VS Code, Jira, Figma, Canva
+- **Languages:** JavaScript (ES6+), Python, Java, C++, C, Kotlin, HTML5, CSS3
+- **Frameworks & Libraries:** Django, React, Node.js, Express.js, Flask, Bootstrap, Tailwind CSS
+- **AI & Data:** LangChain, FAISS, HuggingFace, OpenCV, Scikit-learn, NumPy, Pandas, Streamlit
+- **Databases:** MongoDB, MySQL, SQLite
+- **Tools:** Git, GitHub, Postman, VS Code, Jira, Figma, Canva
 
 ---
 
@@ -59,13 +59,3 @@ Computer Science student at PUCIT focused on backend and full-stack development.
 
 - Expanding into RAG systems, backend engineering, and scalable architectures
 - Interested in AI applications, developer tools, cybersecurity, and user-focused products
-
-## 📫 Connect With Me
-
-📧 Email: [tanvirmeryem2@gmail.com](mailto:tanvirmeryem2@gmail.com)
-💼 LinkedIn: linkedin.com/in/maryyam-tanvir
-🌐 GitHub: github.com/meryem-cmd
-
----
-
-> “Building things that are both useful and meaningful.”
