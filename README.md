@@ -15,6 +15,16 @@ Computer Science student at PUCIT focused on backend and full-stack development 
 | **Key detail** | Built two versions of the core rate-check deliberately — naive vs. atomic — to prove a race condition mattered under concurrent load, not just claim it did |
 | **Impact** | Naive version allowed 2x its configured limit under load; atomic Lua-script fix closed the race entirely and cut average response time ~10–25x (1.07s–4.47s → 164ms) |
 
+
+### [virtual-study-room](https://github.com/<your-username>/virtual-study-room)
+
+| | |
+|---|---|
+| **Stack** | Next.js 16 · Prisma/PostgreSQL (Neon) · Auth.js · Socket.IO · WebRTC · Vercel AI SDK (Gemini) |
+| **Key detail** | Architected as two independently-deployed services — a serverless Next.js app can't hold the persistent connections real-time features need, so presence, a synced Pomodoro timer, chat, and WebRTC signaling run through a standalone Socket.IO server instead |
+| **Impact** | Shipped a working real-time, multi-user app end-to-end: synced timer, live chat, 1:1 peer-to-peer video + screen share, and a context-aware AI assistant — deployed live, not just running locally |
+
+
 ### [url-security-scanner](https://github.com/meryem-cmd/url-security-scanner)
 | | |
 |---|---|
