@@ -16,7 +16,7 @@ Computer Science student at PUCIT focused on backend and full-stack development 
 | **Impact** | Naive version allowed 2x its configured limit under load; atomic Lua-script fix closed the race entirely and cut average response time ~10–25x (1.07s–4.47s → 164ms) |
 
 
-### [virtual-study-room](https://github.com/<your-username>/virtual-study-room)
+### [virtual-study-room](https://github.com/meryem-cmd/virtual-study-room)
 
 | | |
 |---|---|
